@@ -1,3 +1,4 @@
 envtest/
+envtest/*
 envtest.egg-info/
 envtest.egg-info/*
